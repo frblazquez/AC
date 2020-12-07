@@ -1,0 +1,22 @@
+ALGORITMOS A PRESENTAR CURSO 2020-2021
+
+1.- Algoritmo de euclides para R un D.E cualquiera. y algoritmo de euclides extendido
+
+2.- Algoritmo para calcular el teorema chino del resto (i.e. calcular el inverso)
+
+3.- Mcd en un D.F.U.
+
+4.- Inverso de un elemento en un cuerpo finito.
+	p,f irreducibles en Zp[x] -> K:=Zp[x] / (f(x)) |K|=p^(deg f)
+
+5.- Test de irreducibilidad de un poliomio en Fq[x]
+
+6.- Logaritmo discreto en cuerpos Fq[x]/(f(x))
+
+7.- Algoritmo de factorización de un polinomio en cuerpo finito parte 1, 2 y 3.
+
+8.- Algoritmo de factorizacion de Berlekamp en cuerpos finitos 
+
+9.- Algorimos de factorizacion en Z[x]
+
+10.-Algorimo de primalidad de AKS
