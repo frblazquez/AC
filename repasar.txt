@@ -1,2 +1,2 @@
 1.1 - No funciona el segundo algoritmo ni cambiándolo exactamente por uno de otro github ni poniendo un ejemplo de otro github
-5 - No entiendo bien como funciona la 'p' o porque hace falta (creo que tiene que ver con entender bien que es Fq[x] xD)
+5 - No entiendo bien como funciona la 'p' o porque hace falta (creo que tiene que ver con entender bien que es Fq[x] xD) Creo que q tiene que ser de la forma p^k. Entonces siempre puedes sacar esa p.
